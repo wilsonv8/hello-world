@@ -1,3 +1,4 @@
 # hello-world
 hello world demo
-comments about myself are here for all to see
+Comments about myself are here for all to see.
+An extra bit about me would go here.
